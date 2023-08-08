@@ -1,7 +1,7 @@
 # Pizza_Sales_Analysis
 Pizza Sales Data Analysis - SQL Queries
 
-This repository contains SQL queries for analyzing pizza sales data. The queries provide insights into various key performance indicators (KPIs) and trends related to pizza sales. The dataset used for this analysis includes information about orders, pizzas, and their attributes.
+This repository contains SQL queries for analyzing pizza sales data. The queries provide insights into various key performance indicators (KPIs) and trends related to pizza sales. The dataset used for this analysis includes information about orders, pizzas, and their attributes
 
 Table of Contents
 
