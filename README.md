@@ -1,8 +1,6 @@
 # Pizza_Sales_Analysis
-Pizza Sales Data Analysis - SQL Queries
-
-This repository contains SQL queries for analyzing pizza sales data. The queries provide insights into various key performance indicators (KPIs) and trends related to pizza sales. The dataset used for this analysis includes information about orders, pizzas, and their attributes
-
+Pizza Sales Data Analysis - SQL Queries-EXCEL-TABLEAU
+In this comprehensive pizza sales analysis, we have delved into the data to extract valuable insights regarding the performance of a pizza business. By utilizing SQL queries, we have derived essential key performance indicators (KPIs) and trends, which have been visualized and presented through interactive dashboards created in both Tableau and Excel. This analysis provides a comprehensive overview of the business's financial health, customer behavior, and product performance.
 Table of Contents
 
 Introduction
@@ -57,6 +55,12 @@ Identifies the top 5 best-selling pizzas based on the total quantity sold.
 
 H. Bottom 5 Best Sellers by Total Pizzas Sold
 Identifies the bottom 5 best-selling pizzas based on the total quantity sold.
+
+Dashboard Creation:
+
+To provide a comprehensive and visually appealing representation of the analysis, we crafted interactive dashboards using both Tableau and Excel. These dashboards showcase the key insights derived from the SQL queries in a user-friendly and easily interpretable manner. The Excel dashboard presents the data in a structured format with charts and graphs for easy comprehension.
+
+Overall, this pizza sales analysis and the accompanying dashboards provide a deep understanding of the business's performance, customer preferences, and market trends. These insights empower decision-makers to make informed choices, optimize operations, and enhance overall profitability.
 
 Conclusion
 
